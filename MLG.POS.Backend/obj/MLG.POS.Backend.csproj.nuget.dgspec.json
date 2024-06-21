@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend\\MLG.POS.Backend.csproj": {}
+  },
+  "projects": {
+    "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Core\\MLG.POS.Backend.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Core\\MLG.POS.Backend.Core.csproj",
+        "projectName": "MLG.POS.Backend.Core",
+        "projectPath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Core\\MLG.POS.Backend.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Repositories\\MLG.POS.Backend.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Repositories\\MLG.POS.Backend.Repositories.csproj",
+        "projectName": "MLG.POS.Backend.Repositories",
+        "projectPath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Repositories\\MLG.POS.Backend.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Core\\MLG.POS.Backend.Core.csproj": {
+                "projectPath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Core\\MLG.POS.Backend.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Services\\MLG.POS.Backend.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Services\\MLG.POS.Backend.Services.csproj",
+        "projectName": "MLG.POS.Backend.Services",
+        "projectPath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Services\\MLG.POS.Backend.Services.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Core\\MLG.POS.Backend.Core.csproj": {
+                "projectPath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Core\\MLG.POS.Backend.Core.csproj"
+              },
+              "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Repositories\\MLG.POS.Backend.Repositories.csproj": {
+                "projectPath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Repositories\\MLG.POS.Backend.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend\\MLG.POS.Backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend\\MLG.POS.Backend.csproj",
+        "projectName": "MLG.POS.Backend",
+        "projectPath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend\\MLG.POS.Backend.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Services\\MLG.POS.Backend.Services.csproj": {
+                "projectPath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Services\\MLG.POS.Backend.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

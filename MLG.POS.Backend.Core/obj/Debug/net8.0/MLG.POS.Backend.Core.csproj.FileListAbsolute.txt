@@ -1,0 +1,12 @@
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Core\bin\Debug\net8.0\MLG.POS.Backend.Core.deps.json
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Core\bin\Debug\net8.0\MLG.POS.Backend.Core.dll
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Core\bin\Debug\net8.0\MLG.POS.Backend.Core.pdb
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Core\obj\Debug\net8.0\MLG.POS.Backend.Core.csproj.AssemblyReference.cache
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Core\obj\Debug\net8.0\MLG.POS.Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Core\obj\Debug\net8.0\MLG.POS.Backend.Core.AssemblyInfoInputs.cache
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Core\obj\Debug\net8.0\MLG.POS.Backend.Core.AssemblyInfo.cs
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Core\obj\Debug\net8.0\MLG.POS.Backend.Core.csproj.CoreCompileInputs.cache
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Core\obj\Debug\net8.0\MLG.POS.Backend.Core.dll
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Core\obj\Debug\net8.0\refint\MLG.POS.Backend.Core.dll
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Core\obj\Debug\net8.0\MLG.POS.Backend.Core.pdb
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Core\obj\Debug\net8.0\ref\MLG.POS.Backend.Core.dll

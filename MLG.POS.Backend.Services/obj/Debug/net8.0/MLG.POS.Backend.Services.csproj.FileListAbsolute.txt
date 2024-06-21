@@ -1,0 +1,17 @@
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\bin\Debug\net8.0\MLG.POS.Backend.Services.deps.json
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\bin\Debug\net8.0\MLG.POS.Backend.Services.dll
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\bin\Debug\net8.0\MLG.POS.Backend.Services.pdb
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\bin\Debug\net8.0\MLG.POS.Backend.Core.dll
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\bin\Debug\net8.0\MLG.POS.Backend.Repositories.dll
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\bin\Debug\net8.0\MLG.POS.Backend.Core.pdb
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\bin\Debug\net8.0\MLG.POS.Backend.Repositories.pdb
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\obj\Debug\net8.0\MLG.POS.Backend.Services.csproj.AssemblyReference.cache
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\obj\Debug\net8.0\MLG.POS.Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\obj\Debug\net8.0\MLG.POS.Backend.Services.AssemblyInfoInputs.cache
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\obj\Debug\net8.0\MLG.POS.Backend.Services.AssemblyInfo.cs
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\obj\Debug\net8.0\MLG.POS.Backend.Services.csproj.CoreCompileInputs.cache
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\obj\Debug\net8.0\MLG.POS..A30A9715.Up2Date
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\obj\Debug\net8.0\MLG.POS.Backend.Services.dll
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\obj\Debug\net8.0\refint\MLG.POS.Backend.Services.dll
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\obj\Debug\net8.0\MLG.POS.Backend.Services.pdb
+D:\GIT\TESTING\MLG\BACK\MLG.POS\MLG.POS.Backend.Services\obj\Debug\net8.0\ref\MLG.POS.Backend.Services.dll

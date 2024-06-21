@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sUUqZ3KmCg3r2PBBZ8I7gqGao8GImWZxdWzWX8JpGBgZCPEdmHfCzEwYhHGOM1AfBvBn1lX5osd+wHInNaAS4A==",
+  "success": true,
+  "projectFilePath": "D:\\GIT\\TESTING\\MLG\\BACK\\MLG.POS\\MLG.POS.Backend.Core\\MLG.POS.Backend.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

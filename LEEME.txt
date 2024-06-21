@@ -1,0 +1,3 @@
+El proyecto MLG.POS (Backend) se desarrollo utilizando el patrón de diseño "Repositorio" para recuperar los datos y 
+asignarlos a una entidad, con esto logramos quitarle responsabilidades a cada clase, siendo el repositorio el encargado
+de comunicarse con la BD. Se utilizo el ORM Dapper.
